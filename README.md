@@ -1,191 +1,131 @@
-<!-- ================================================== -->
-<!--                 JASUR MEGA PROFILE                -->
-<!-- ================================================== -->
+<!-- =============== JASUR | ELITE DEVELOPER =============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020024,30:090979,65:005bea,100:00d4ff&text=JASUR&fontSize=105&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WELCOME%20TO%20MY%20DIGITAL%20WORLD&descSize=20&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050505,35:101c35,70:064e8a,100:00c8ff&text=JASUR&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ENGINEERING%20THE%20FUTURE&descSize=22&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=1800&pause=700&color=00D4FF&center=true&vCenter=true&width=850&lines=HELLO+WORLD!+I'M+JASUR+%F0%9F%91%8B;WELCOME+TO+MY+GITHUB+UNIVERSE+%F0%9F%8C%8C;PROGRAMMING+IS+MY+PASSION+%F0%9F%92%BB;FUTURE+SOFTWARE+DEVELOPER+%F0%9F%9A%80;LEARN.+CREATE.+INNOVATE.+REPEAT." />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=jasurbek012011-web&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/jasurbek012011-web?style=for-the-badge&color=blue&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/jasurbek012011-web?style=for-the-badge&color=yellow&label=STARS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=800&color=00C8FF&center=true&vCenter=true&width=800&lines=SYSTEM+INITIALIZED...;WELCOME+TO+JASUR'S+DIGITAL+WORLD;ASPIRING+SOFTWARE+DEVELOPER;CODE.+BUILD.+INNOVATE.;THE+FUTURE+STARTS+HERE." />
 
 <br/><br/>
 
-<img width="85%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img src="https://komarev.com/ghpvc/?username=jasurbek012011-web&style=for-the-badge&color=00c8ff&label=VISITORS"/>
+<img src="https://img.shields.io/github/followers/jasurbek012011-web?style=for-the-badge&color=161b22&logo=github&label=FOLLOWERS"/>
 
-### 💻 ENTER MY WORLD OF PROGRAMMING
+<br/><br/>
+
+<img width="90%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### `> INITIALIZING DEVELOPER PROFILE...`
 
 </div>
 
 ---
 
-# 🧑‍🚀 01 — WHO IS JASUR?
+## `01 // IDENTITY`
 
 <img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-Hello! My name is **Jasur**.
+# Hello, I'm Jasur.
 
-I'm passionate about programming, computers and modern technologies. I enjoy discovering how software works and learning how to create digital products.
+I'm a young programming enthusiast from Uzbekistan 🇺🇿
 
-### 👨‍💻 Personal Information
+I enjoy exploring technology, understanding how software works and turning ideas into digital experiences.
 
-| Information | Details |
-|---|---|
-| Name | Jasur |
-| GitHub | jasurbek012011-web |
-| Main Interest | Programming |
-| Field | Information Technology |
-| Favorite Activity | Learning to code |
-| Main Goal | Become a professional developer |
-| Mindset | Growth and creativity |
-| Current Mission | Build new skills |
+**My developer philosophy:** Learn continuously. Think creatively. Build intelligently.
+
+- 👨‍💻 Name: Jasur
+- 🌍 Location: Uzbekistan
+- 💻 Main interest: Programming
+- 🚀 Ambition: Software Development
+- 🧠 Focus: Logical thinking and creativity
+- ⚡ Mindset: Growth and innovation
+- 🎯 Mission: Become a skilled developer
 
 <br clear="right"/>
 
-### 🌟 My Personality
-
-- 🧠 Curious about technology
-- 🚀 Interested in innovation
-- 💡 Enjoy creative ideas
-- 🎯 Focused on learning
-- 🔍 Interested in problem solving
-- 💻 Love exploring programming
-- 🌍 Inspired by the digital world
-- ⚡ Always looking for new challenges
-
 ---
 
-# 🌌 02 — MY DIGITAL UNIVERSE
+## `02 // DIGITAL ENVIRONMENT`
 
 <div align="center">
 
-<img width="100%" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"/>
+<img width="100%" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
-### Every line of code is a new possibility!
+### WELCOME TO THE WORLD OF CODE
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=21&pause=900&color=7B68EE&center=true&vCenter=true&width=700&lines=console.log(%22Hello+Jasur!%22);print(%22Keep+Learning%22);cout+%3C%3C+%22Never+Give+Up%22;" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=while(true)+%7B+keepLearning();+%7D;console.log(%22Future+Developer%22);;ERRORS+ARE+PART+OF+THE+JOURNEY.;BUILDING+ONE+PROJECT+AT+A+TIME." />
 
 </div>
 
 ---
 
-# ⚡ 03 — PROGRAMMING LANGUAGES
+## `03 // TECHNOLOGY ARSENAL`
+
+### Programming Languages
 
 <div align="center">
 
-### My Technology Collection
-
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,c,java,php,typescript&theme=dark&perline=5"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python&theme=dark&perline=5"/>
 
 </div>
 
----
-
-# 🛠️ 04 — TOOLS & ENVIRONMENT
+### Development Environment
 
 <div align="center">
 
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,github,git,linux,windows,figma,stackoverflow&theme=dark&perline=5"/>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,bootstrap&theme=dark&perline=5"/>
-
-### More Technologies
-
-<img src="https://skillicons.dev/icons?i=docker,postman,npm,bash,wordpress&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=vscode,github,git,linux,windows,figma&theme=dark&perline=6"/>
 
 </div>
 
-*These are technologies of interest and possible future learning areas, not a claim of professional experience.*
-
----
-
-# 🎯 05 — MY GOALS & DREAMS
+### Future Technology Exploration
 
 <div align="center">
 
-<img width="75%" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,typescript,mongodb,mysql,tailwind,docker&theme=dark&perline=7"/>
 
 </div>
 
-| No. | Goal | Mission |
-|---|---|---|
-| 01 | Programming | Improve coding skills |
-| 02 | Web Development | Create modern websites |
-| 03 | Algorithms | Improve logical thinking |
-| 04 | Python | Explore automation |
-| 05 | JavaScript | Build interactive applications |
-| 06 | C++ | Understand programming fundamentals |
-| 07 | GitHub | Publish personal projects |
-| 08 | UI/UX | Explore beautiful interfaces |
-| 09 | Databases | Learn data management |
-| 10 | AI | Explore artificial intelligence |
+> My technology collection represents my interests and learning goals, not a claim of professional experience in every tool.
 
 ---
 
-# 📚 06 — MY LEARNING ROADMAP
+## `04 // SKILL DEVELOPMENT`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ROADMAP-2026-00D4FF?style=for-the-badge&logo=roadmap.sh&logoColor=white"/>
+<img width="80%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 </div>
 
-### 🌐 Frontend Development
+| Area | Learning focus |
+|---|---|
+| HTML | Page structure |
+| CSS | Design and layouts |
+| JavaScript | Interactive websites |
+| C++ | Programming fundamentals |
+| Python | Automation and logic |
+| Git | Version control |
+| GitHub | Project management |
+| React | Modern interfaces |
+| Databases | Data management |
+| UI/UX | User experience |
 
-- [ ] HTML fundamentals
-- [ ] CSS styling
-- [ ] Responsive design
-- [ ] JavaScript fundamentals
-- [ ] DOM manipulation
-- [ ] React fundamentals
-- [ ] Modern UI design
+### Current Learning Roadmap
 
-### ⚙️ Programming Fundamentals
-
-- [ ] Variables and data types
-- [ ] Conditions
-- [ ] Loops
-- [ ] Functions
-- [ ] Arrays
-- [ ] Algorithms
-- [ ] Object-oriented programming
-
-### 🐍 Python Development
-
-- [ ] Python basics
-- [ ] Functions and modules
-- [ ] File handling
-- [ ] Working with APIs
-- [ ] Small automation projects
-
-### 🚀 Advanced Skills
-
-- [ ] Git and GitHub
-- [ ] Databases
-- [ ] Backend development
-- [ ] API integration
-- [ ] Deployment
+- [ ] Master HTML and CSS
+- [ ] Improve JavaScript skills
+- [ ] Practice C++ programming
+- [ ] Explore Python projects
+- [ ] Learn responsive web design
+- [ ] Understand algorithms
+- [ ] Explore React
+- [ ] Build a complete website
+- [ ] Learn database fundamentals
+- [ ] Publish more GitHub projects
 
 ---
 
-# 🎨 07 — THE ART OF CODING
+## `05 // MY WORKSPACE`
 
 <div align="center">
 
@@ -193,52 +133,60 @@ I'm passionate about programming, computers and modern technologies. I enjoy dis
 
 <br/><br/>
 
+<img width="48%" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"/>
 <img width="48%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
-<img width="48%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+</div>
+
+### My Development Principles
+
+1. **Clean Code** — write understandable code.
+2. **Consistency** — learn something new regularly.
+3. **Creativity** — explore different solutions.
+4. **Discipline** — keep improving.
+5. **Curiosity** — never stop exploring.
+
+---
+
+## `06 // GITHUB INTELLIGENCE`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=jasurbek012011-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=JASUR%20%7C%20GITHUB%20ANALYTICS"/>
 
 <br/><br/>
 
-<img width="65%" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasurbek012011-web&layout=donut&theme=tokyonight&hide_border=true"/>
 
-### CREATE SOMETHING AMAZING!
+<img width="48%" src="https://streak-stats.demolab.com?user=jasurbek012011-web&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 08 — GITHUB STATISTICS
+## `07 // ACHIEVEMENT CENTER`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=jasurbek012011-web&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=JASUR'S%20GITHUB%20STATISTICS"/>
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasurbek012011-web&layout=donut&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=jasurbek012011-web&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=jasurbek012011-web&theme=algolia&no-frame=true&no-bg=true&column=4"/>
 
 </div>
 
 ---
 
-# 🏆 09 — GITHUB TROPHIES
+## `08 // ACTIVITY MONITOR`
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=jasurbek012011-web&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jasurbek012011-web&bg_color=080d18&color=00c8ff&line=3478f6&point=ffffff&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY"/>
 
 </div>
 
 ---
 
-# 📈 10 — CONTRIBUTION ACTIVITY
+## `09 // CONTRIBUTION SNAKE`
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jasurbek012011-web&bg_color=050816&color=00d4ff&line=7b2ff7&point=ffffff&area=true&hide_border=true&custom_title=JASUR'S%20CODING%20JOURNEY"/>
-
-<br/><br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -246,17 +194,19 @@ I'm passionate about programming, computers and modern technologies. I enjoy dis
 
 ---
 
-# 💎 11 — MY PROJECT COLLECTION
+## `10 // PROJECT ARCHITECTURE`
 
 <div align="center">
 
-<img width="80%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img width="75%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-### Explore my development journey!
+### DIGITAL PROJECT SHOWCASE
 
-</div>
+<a href="https://github.com/jasurbek012011-web?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00C8FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-<div align="center">
+<br/><br/>
 
 <a href="https://github.com/jasurbek012011-web/My-Portfolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasurbek012011-web&repo=My-Portfolio&theme=tokyonight&hide_border=true"/>
@@ -264,68 +214,43 @@ I'm passionate about programming, computers and modern technologies. I enjoy dis
 
 </div>
 
-### 🔍 Explore more projects
-
-<p align="center">
-<a href="https://github.com/jasurbek012011-web?tab=repositories">
-<img src="https://img.shields.io/badge/ALL_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
 ---
 
-# 🧩 12 — WHAT I LOVE
+## `11 // INTERESTS & INSPIRATION`
 
 <div align="center">
 
-| 💻 Coding | 🌐 Technology | 🚀 Innovation |
-|---|---|---|
-| Writing programs | Exploring new tools | Creating ideas |
-| Solving problems | Learning frameworks | Building projects |
-
-| 🎨 Creativity | 🧠 Logic | 📚 Learning |
-|---|---|---|
-| Designing interfaces | Algorithms | New skills |
-| Creative thinking | Problem solving | Continuous growth |
+<img width="48%" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"/>
+<img width="48%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </div>
 
----
-
-# 🎮 13 — BEYOND THE CODE
-
-<div align="center">
-
-<img width="300" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif"/>
-
-### Life is more than just code!
-
-</div>
-
-- 🎮 Exploring digital entertainment
-- 🌌 Discovering new technologies
-- 🎨 Looking for creative inspiration
-- 🧩 Solving challenging problems
-- 💡 Thinking about new ideas
-- 🚀 Building a better future
+- 💻 Software engineering
+- 🌐 Web development
+- 🤖 Artificial intelligence
+- 🎮 Digital entertainment
+- 🧩 Logic and problem solving
+- 🎨 Modern interface design
+- 🚀 Innovative technologies
+- 🔐 Computer science
 
 ---
 
-# 🔥 14 — DEVELOPER QUOTES
+## `12 // DEVELOPER MINDSET`
 
 <div align="center">
 
-<img width="90%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img width="85%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=Great+things+take+time.;Keep+your+curiosity+alive.;Your+future+starts+with+what+you+learn+today.;Dream+it.+Build+it.+Improve+it."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=THINK+BEYOND+LIMITS.;CREATE+WITHOUT+FEAR.;LEARN+WITHOUT+STOPPING.;TURN+IDEAS+INTO+REALITY." />
 
 </div>
 
 ---
 
-# 🌐 15 — CONNECT WITH ME
+## `13 // NETWORK CONNECTION`
 
 <div align="center">
 
@@ -333,30 +258,28 @@ I'm passionate about programming, computers and modern technologies. I enjoy dis
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/COUNTRY-UZBEKISTAN-009B72?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LOCATION-UZBEKISTAN-00A859?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00D4FF?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20AND%20BUILDING-00C8FF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌠 16 — FINAL MESSAGE
-
 <div align="center">
 
-<img width="80%" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"/>
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### THANK YOU FOR EXPLORING MY PROFILE!
+# THE JOURNEY HAS JUST BEGUN.
 
-**I'M JUST GETTING STARTED. THE BEST IS YET TO COME.**
+### CODE. THINK. CREATE. DOMINATE.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=CODE+%E2%80%A2+CREATE+%E2%80%A2+INNOVATE;NEVER+STOP+LEARNING+%F0%9F%9A%80;SEE+YOU+IN+THE+NEXT+PROJECT!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=THANKS+FOR+VISITING!;SEE+YOU+IN+THE+NEXT+PROJECT.;KEEP+BUILDING+YOUR+FUTURE." />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:005bea,100:020024&height=180&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00c8ff,50:064e8a,100:050505&section=footer"/>
 
 </div>
+
+<!-- =============== END OF JASUR PROFILE =============== -->
